@@ -1,4 +1,4 @@
-def square_numbers(*args: int) -> int:
+def square_numbers(*args: int):
     print("Number\t\tSquare Number")
     for value in args:
         print("{0}\t\t\t{1}".format(value, value**2))
