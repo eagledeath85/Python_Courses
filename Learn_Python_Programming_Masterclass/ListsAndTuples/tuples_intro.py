@@ -1,5 +1,5 @@
 # a tuple is a mathematical name for an ordered set of data
-# its syntax is a set of data in parenthesis ("string", variable, integer)
+# its syntax is a set of data in parentheses ("string", variable, integer)
 # tuples differ from lists because they are immutables,
 # meaning they can't be changed once they're created - just like strings
 
