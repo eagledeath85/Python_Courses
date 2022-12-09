@@ -18,7 +18,6 @@ for i in range(1, len(available_parts) + 1):
 print(valid_choices)
 while current_choice != '0':
     if current_choice in valid_choices:
-
         index = int(current_choice) - 1
         chosen_part = available_parts[index]
         if chosen_part in computer_parts:
