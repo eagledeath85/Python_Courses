@@ -1,4 +1,4 @@
-# Dictionnary is a sequence of "key-value" pairs
+# Dictionary is a sequence of "key-value" pairs
 # Tip #1: If we know the key will be present, the use indexing
 # If there's a possibility that the key won't be present, use the get method
 # Tip #2: Indexing a key that's not present will crash the program, using the
