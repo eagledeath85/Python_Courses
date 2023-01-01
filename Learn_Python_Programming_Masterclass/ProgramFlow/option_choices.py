@@ -2,10 +2,8 @@
 # where a user needs to choose an option from
 
 input_choice = " "
-while True:
-    if input_choice == "0":
-        break
-    elif input_choice in "1234567":
+while input_choice != "0":
+    if input_choice in {"1", "2", "3", "4", "5"}:
         print("You've type {0}".format(input_choice))
     else:
         print("Please choose one the options below: "
