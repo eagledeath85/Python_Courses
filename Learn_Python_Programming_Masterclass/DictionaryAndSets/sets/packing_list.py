@@ -48,10 +48,11 @@ while mode not in travel_mode:
 if mode == "2":
     # travelling by plane, discard restricted items
     # In this example, discard() is more appropriate as we just want restricted items out of the items to package
-    for restricted_item in restricted_items:
-        items.discard(restricted_item)
-    # pass
-
+    # for restricted_item in restricted_items:
+    #     items.discard(restricted_item)
+    # OTHER WAY: instead of iterating over the set, we can use the difference_update() method
+    items.difference_update(restricted_items)
+    
 # print the packing list
 print("You need to pack:")
 for item in sorted(items):
