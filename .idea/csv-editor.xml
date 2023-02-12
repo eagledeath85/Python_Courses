@@ -3,6 +3,41 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/Learn_Python_Programming_Masterclass/TextFiles/OlympicMedals_2020.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Learn_Python_Programming_Masterclass/TextFiles/albums.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Learn_Python_Programming_Masterclass/TextFiles/cereal_grains.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Learn_Python_Programming_Masterclass/TextFiles/country_medals.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Learn_Python_Programming_Masterclass/TextFiles/my_cereals.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Learn_Python_Programming_Masterclass/exercises/json/output.csv">
           <value>
             <Attribute>
